@@ -1,4 +1,4 @@
-'''bash
+  ```bash
 #!/bin/bash
 YELLOW='\033[0;33m'
 NC='\033[0m' 
@@ -106,4 +106,7 @@ for line in "${pattern[@]}"
 do
     echo -e "${YELLOW}${line}${NC}"
 done
-'''
+
+  
+  ```
+
