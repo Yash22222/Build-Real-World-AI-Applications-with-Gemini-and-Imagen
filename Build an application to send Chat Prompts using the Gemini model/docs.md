@@ -1,7 +1,5 @@
 
 
-```markdown
-```
 # Lab 3:- Build an Application to Send Chat Prompts using the Gemini Model
 
 This lab is part of the **"Build Real World AI Applications with Gemini and Imagen"** series.
