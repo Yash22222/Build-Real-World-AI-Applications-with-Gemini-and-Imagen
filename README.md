@@ -1,2 +1,1 @@
-# Build-Real-World-AI-Applications-with-Gemini-and-Imagen
-Imagine combining the power of language and creativity of vision into real-world applications using AI. That’s exactly what I set out to explore through Google Cloud’s Vertex AI tools, Gemini and Imagen. In this hands-on project, I built a series of AI-powered applications by integrating Gemini (text + vision LLM)  Imagen (text-to-image model)
+# **Build Real World AI Applications with Gemini and Imagen**
