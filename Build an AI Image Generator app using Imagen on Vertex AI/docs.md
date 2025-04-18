@@ -1,6 +1,6 @@
 # **Lab 2:- Build an AI Image Recognition App using Gemini on Vertex AI**
 
-```markdown
+
 
 This lab is part of the **"Build Real World AI Applications with Gemini and Imagen"** series.
 
